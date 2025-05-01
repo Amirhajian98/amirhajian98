@@ -52,7 +52,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/amirhajian98/amirhajian98/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: amir.hajian@comptss.com">amir.hajian@comptss.com</a>
+  📫 How to reach me: <a href="mailto: mail@amirhajian.com">mail@amirhajian.com</a>
 </p>
 <!-- Nothing weird to see here -->
 <p align="center">
